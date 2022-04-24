@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cscd212classes.lab2","l":"Canvas"},{"p":"cscd212classes.lab2","l":"Color"},{"p":"cscd212Lib.lab2","l":"ConsoleColors"},{"p":"cscd212Lib.lab2","l":"HelpersMethods"},{"p":"cscd212classes.lab2","l":"Main"},{"p":"cscd212classes.lab2","l":"Pixel"}]
